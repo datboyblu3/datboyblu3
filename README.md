@@ -5,7 +5,7 @@ Somehow found myself working in cyber security for sometime now and doing alrigh
 - Splunk
 - Threat Hunting
 - Ansible for security
-- Ethical Hacking
+- Padawon Pentester
 - Python....sometimes.. :pensive:
 
 You can find my blog @ [datboyblu3](https://medium.com/@DatBoyBlu3)
