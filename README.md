@@ -4,7 +4,6 @@ Somehow found myself working in cyber security for sometime now and doing alrigh
 
 - Splunk
 - Threat Hunting
-- Ansible for security
 - Padawon Pentester
 - Python....sometimes.. :pensive:
 
