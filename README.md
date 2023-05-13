@@ -1,5 +1,5 @@
 🥷🏾 Hello there! I'm Danny!
-<img align="right" src="https://github.com/datboyblu3/gifs/blob/main/madara.gif"/>
+<img align="right" src="https://github.com/datboyblu3/gifs/blob/main/madara2.gif"/>
 
 * Splunk
 * Threat Hunting
