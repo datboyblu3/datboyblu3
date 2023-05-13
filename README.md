@@ -1,16 +1,13 @@
-### Hi there :bowtie:
-
-🥷🏾 Somehow found myself working in cyber security for sometime now and doing alright
+🥷🏾 Hello there! I'm Danny!
+<img align="right" src="https://github.com/datboyblu3/gifs/blob/main/madara2.gif"/>
 
 * Splunk
 * Threat Hunting
-* Padawon Pentester
+* Padawon Pentester                           
 * Terraform + Ansible
 * Python....sometimes.. :pensive:
 
-
-
-#### You can find me at 👇🏾
+#### 👇🏾You can find me at 
 * [My blog @ Medium.com](https://medium.com/@DatBoyBlu3)
 * [Twitter](https://twitter.com/datboyblu3)
 * [LinkedIn](https://linkedin.com/in/danieledwards)
