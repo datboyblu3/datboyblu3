@@ -12,10 +12,12 @@
 * [Twitter](https://twitter.com/datboyblu3)
 * [LinkedIn](https://linkedin.com/in/danieledwards)
 
-#### 📝 Latest Blog Posts
+#### 📓 Latest Blog Posts
 * [Purple Team Project](https://medium.com/@george.seif94/a-full-tutorial-on-how-to-use-github-88466bac7d42)
 * [Hiding Traffic with Proxychains](https://medium.com/@DatBoyBlu3/shhhhh-hide-traffic-with-proxychains-31a7b6ee7799)
 * [Sigma PSExec Rule Detection](https://medium.com/@DatBoyBlu3/sigma-rule-psexec-command-execution-684bbc036cbe)
+* [DLL Hijacking](https://medium.com/@DatBoyBlu3/privilege-escalation-dll-hijacking-668d7235bc98)
+* [Photographer 1](https://medium.com/@DatBoyBlu3/vulnhub-photographer-1-63a991c0cae)
 
 
 ![tryhackme stats!](https://github.com/datboyblu3/datboyblu3/blob/main/access/tryhackme2.png)
