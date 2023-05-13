@@ -9,9 +9,19 @@ Somehow found myself working in cyber security for sometime now and doing alrigh
 
 You can find my blog @ [datboyblu3](https://medium.com/@DatBoyBlu3)
 
-You can also find me on [Twitter](https://twitter.com/datboyblu3) and [LinkedIn](https://linkedin.com/in/danieledwards).
+#### 📝 Latest Blog Posts
+--------------------------
+
+- [Purple Team Project](https://medium.com/@george.seif94/a-full-tutorial-on-how-to-use-github-88466bac7d42)
+
+- [Hiding Traffic with Proxychains](https://medium.com/@DatBoyBlu3/shhhhh-hide-traffic-with-proxychains-31a7b6ee7799)
+
+- [Sigma PSExec Rule Detection](https://medium.com/@DatBoyBlu3/sigma-rule-psexec-command-execution-684bbc036cbe)
+
+You can also find me on [Twitter](https://twitter.com/datboyblu3) and [LinkedIn](https://linkedin.com/in/danieledwards)
 
 
+[tryhackme stats](https://raw.githubusercontent.com/datboyblu3/datboyblu3/master/access/tryhackme2.png)
 ---
 
 <p align="center">
