@@ -1,27 +1,27 @@
 ### Hi there :bowtie:
 
-Somehow found myself working in cyber security for sometime now and doing alright
+🥷🏾 Somehow found myself working in cyber security for sometime now and doing alright
 
-- Splunk
-- Threat Hunting
-- Padawon Pentester
-- Python....sometimes.. :pensive:
+* Splunk
+* Threat Hunting
+* Padawon Pentester
+* Terraform + Ansible
+* Python....sometimes.. :pensive:
 
-You can find my blog @ [datboyblu3](https://medium.com/@DatBoyBlu3)
+
+
+#### You can find me at 👇🏾
+* [My blog @ Medium.com](https://medium.com/@DatBoyBlu3)
+* [Twitter](https://twitter.com/datboyblu3)
+* [LinkedIn](https://linkedin.com/in/danieledwards)
 
 #### 📝 Latest Blog Posts
---------------------------
-
-- [Purple Team Project](https://medium.com/@george.seif94/a-full-tutorial-on-how-to-use-github-88466bac7d42)
-
-- [Hiding Traffic with Proxychains](https://medium.com/@DatBoyBlu3/shhhhh-hide-traffic-with-proxychains-31a7b6ee7799)
-
-- [Sigma PSExec Rule Detection](https://medium.com/@DatBoyBlu3/sigma-rule-psexec-command-execution-684bbc036cbe)
-
-You can also find me on [Twitter](https://twitter.com/datboyblu3) and [LinkedIn](https://linkedin.com/in/danieledwards)
+* [Purple Team Project](https://medium.com/@george.seif94/a-full-tutorial-on-how-to-use-github-88466bac7d42)
+* [Hiding Traffic with Proxychains](https://medium.com/@DatBoyBlu3/shhhhh-hide-traffic-with-proxychains-31a7b6ee7799)
+* [Sigma PSExec Rule Detection](https://medium.com/@DatBoyBlu3/sigma-rule-psexec-command-execution-684bbc036cbe)
 
 
-[tryhackme stats](https://raw.githubusercontent.com/datboyblu3/datboyblu3/master/access/tryhackme2.png)
+![tryhackme stats!](https://github.com/datboyblu3/datboyblu3/blob/main/access/tryhackme2.png)
 ---
 
 <p align="center">
