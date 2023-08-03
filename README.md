@@ -3,7 +3,8 @@
 
 * Splunk
 * Threat Hunting
-* Padawon Pentester                           
+* Padawon Pentester
+* Dabbler in Sigma Detection Rules                           
 * Terraform + Ansible
 * Python....sometimes.. :pensive:
 
