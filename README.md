@@ -9,7 +9,7 @@
 * Python....sometimes.. :pensive:
 
 #### 👇🏾You can find me @ 
-* [My blog @ Medium.com](https://medium.com/@DatBoyBlu3)
+* [My blog @ Medium.com](https://medium.com/@DatBoyBlu3) 
 * [Twitter](https://twitter.com/datboyblu3)
 * [LinkedIn](https://linkedin.com/in/danieledwards)
 
