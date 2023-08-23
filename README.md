@@ -14,7 +14,7 @@
 * [LinkedIn](https://linkedin.com/in/danieledwards)
 
 #### 📓 Latest Blog Posts
-* [Purple Team Project](https://medium.com/@DatBoyBlu3/purple-team-project-part-1-3f67c3f0e2f8))
+* [Purple Team Project](https://medium.com/@DatBoyBlu3/purple-team-project-part-1-3f67c3f0e2f8)
 * [SSH: Connecting to GitHub](https://medium.com/@DatBoyBlu3/ssh-connecting-to-github-ff046ee4d568)
 * [Introduction to Wazuh Part 1](https://medium.com/@DatBoyBlu3/introduction-to-wazuh-the-open-source-security-platform-part-1-643a9838b5d4)
 * [Introduction to Wazuh Part 2: Attacks & Alerts](https://systemweakness.com/introduction-to-wazuh-part-2-attacks-defenses-e8a7be995480)
