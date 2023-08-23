@@ -14,8 +14,10 @@
 * [LinkedIn](https://linkedin.com/in/danieledwards)
 
 #### 📓 Latest Blog Posts
-* [Purple Team Project](https://medium.com/@george.seif94/a-full-tutorial-on-how-to-use-github-88466bac7d42)
+* [Purple Team Project](https://medium.com/@DatBoyBlu3/purple-team-project-part-1-3f67c3f0e2f8))
+* [SSH: Connecting to GitHub](https://medium.com/@DatBoyBlu3/ssh-connecting-to-github-ff046ee4d568)
 * [Introduction to Wazuh Part 1](https://medium.com/@DatBoyBlu3/introduction-to-wazuh-the-open-source-security-platform-part-1-643a9838b5d4)
+* [Introduction to Wazuh Part 2: Attacks & Alerts](https://systemweakness.com/introduction-to-wazuh-part-2-attacks-defenses-e8a7be995480)
 * [Hiding Traffic with Proxychains](https://medium.com/@DatBoyBlu3/shhhhh-hide-traffic-with-proxychains-31a7b6ee7799)
 * [Sigma PSExec Rule Detection](https://medium.com/@DatBoyBlu3/sigma-rule-psexec-command-execution-684bbc036cbe)
 * [DLL Hijacking](https://medium.com/@DatBoyBlu3/privilege-escalation-dll-hijacking-668d7235bc98)
