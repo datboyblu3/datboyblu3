@@ -1,11 +1,13 @@
 🥷🏾 Hello there! I'm Danny!
 <img align="right" src="https://github.com/datboyblu3/gifs/blob/main/madara2.gif"/>
 
-* Splunk
 * Threat Hunting
 * Padawon Pentester
+* Splunk
+* Building Wazuh Detections
 * Dabbler in Sigma Detection Rules                           
-* Terraform + Ansible
+* Terraform
+* Ansible
 * Python....sometimes.. :pensive:
 
 #### 👇🏾You can find me @ 
