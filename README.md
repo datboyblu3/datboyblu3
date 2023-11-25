@@ -15,8 +15,8 @@
 
 #### 📓 Latest Blog Posts
 * [SSH: Connecting to GitHub](https://medium.com/@DatBoyBlu3/ssh-connecting-to-github-ff046ee4d568)
-* [Introduction to Wazuh Part 1](https://medium.com/@DatBoyBlu3/introduction-to-wazuh-the-open-source-security-platform-part-1-643a9838b5d4)
-* [Introduction to Wazuh Part 2: Attacks & Alerts](https://systemweakness.com/introduction-to-wazuh-part-2-attacks-defenses-e8a7be995480)
+* [Blue Teaming with Wazuh Part 1](https://medium.com/@DatBoyBlu3/introduction-to-wazuh-the-open-source-security-platform-part-1-643a9838b5d4)
+* [Blue Teaming with Wazuh Part 2: Attacks & Alerts](https://systemweakness.com/introduction-to-wazuh-part-2-attacks-defenses-e8a7be995480)
 * [Hiding Traffic with Proxychains](https://medium.com/@DatBoyBlu3/shhhhh-hide-traffic-with-proxychains-31a7b6ee7799)
 * [Sigma PSExec Rule Detection](https://medium.com/@DatBoyBlu3/sigma-rule-psexec-command-execution-684bbc036cbe)
 * [DLL Hijacking](https://medium.com/@DatBoyBlu3/privilege-escalation-dll-hijacking-668d7235bc98)
