@@ -1,4 +1,4 @@
-🥷🏾 Hello there! I'm Danny!
+🥷🏾 Hello there! I'm Dan!
 <img align="right" src="https://github.com/datboyblu3/gifs/blob/main/madara2.gif"/>
 
 * Threat Hunting
